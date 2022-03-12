@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gael Bel Ami</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A Passionate AI learner and Full Stack Web Developer</h3>
 <img align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 - 🔭 I’m currently working on [crave](https://github.com/gaelbelami/crave-server)
 
