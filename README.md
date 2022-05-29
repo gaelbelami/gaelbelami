@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gael Bel Ami</h1>
 <h3 align="center">A Passionate AI learner and Full Stack Web Developer</h3>
-<img align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://assets.new.siemens.com/siemens/assets/api/uuid:79f8d98b-c962-4f74-8469-1649f2304fda/width:2732/quality:high/aibackgroundpicolo.gif" />
 - 🔭 I’m currently working on [crave](https://github.com/gaelbelami/crave-server)
 
 - 🌱 I’m currently learning **Golang, FastApi, Deep Learning,...**
